@@ -1,0 +1,13 @@
+{
+  "name": "prd-writer",
+  "version": "0.1.0",
+  "description": "Draft a PRD as a Claude Doc from a Jira ticket, Slack thread, notes or a one-line ask: grounded in the sources and the code, sized to the work, with targeted questions only where the draft is thin.",
+  "author": {
+    "name": "Weston Jones",
+    "url": "https://github.com/westonkjones"
+  },
+  "homepage": "https://github.com/westonkjones/prd-writer",
+  "repository": "https://github.com/westonkjones/prd-writer",
+  "license": "MIT",
+  "keywords": ["prd", "product-requirements", "spec", "claude-docs"]
+}
